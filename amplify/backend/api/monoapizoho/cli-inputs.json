@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/soho/save": {
+      "name": "/soho/save",
+      "lambdaFunction": "monobackendacaf9526",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
